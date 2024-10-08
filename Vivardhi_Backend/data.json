@@ -345,7 +345,11 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 05:55:04"
+        "TIME": "2023-11-08 05:55:04",
+        "Name" : "Keerthika K",
+        "Working_hours" : "9 hours",
+        "Shift" : "Day",
+        "Allocated" : "True"
     },
     {
         "CHW_IN_TEMP": 0.00,
@@ -693,7 +697,11 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 05:55:34"
+        "TIME": "2023-11-08 05:55:34",
+        "Name" : "Deepa R",
+        "Working_hours" : "9 hours",
+        "Shift" : "Day",
+        "Allocated" : "True"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -1041,7 +1049,11 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:02:39"
+        "TIME": "2023-11-08 22:02:39",
+        "Name" : "Raji M",
+        "Working_hours" : "9 hours",
+        "Shift" : "Day",
+        "Allocated" : "False"
     },
     {
         "CHW_IN_TEMP": 88.50,

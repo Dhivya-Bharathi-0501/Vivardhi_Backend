@@ -41,7 +41,7 @@ class CustomUser(AbstractBaseUser, PermissionsMixin):
     REQUIRED_FIELDS = ['name', 'username']
 
     class Meta:
-        db_table = 'LOGIN_TABLE'
+        db_table = 'AUTHENTICATION'
 
     def __str__(self):
         return self.email

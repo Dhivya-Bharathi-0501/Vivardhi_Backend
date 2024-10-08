@@ -26,7 +26,12 @@ class Device(models.Model):
     htg_pr_hi_hys = models.FloatField()
     htg_vap_temp = models.FloatField()
     device_date = models.DateTimeField()
+    name = models.CharField(max_length=100,default="Unknown")
+    working_hours = models.CharField(max_length=50, default="8 hours")
+    shift = models.CharField(max_length=50, default="Day")
+    allocated = models.BooleanField(default=False)
+
 
     class Meta:
-        db_table = 'TEMPERATURE_TABLE'
+        db_table = 'SAMPLE_DATA'
 

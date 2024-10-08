@@ -67,13 +67,13 @@ def generate_graphs_data(request):
 
     # Calculate gauge meter data for pressure
     pressure_stats = data.aggregate(
-        avg_pressure=Avg('vaccum_pr')  # Replace 'vacuum_pressure' with your actual pressure field name
+        avg_pressure=Avg('vaccum_pr')  
     )
 
     gauge_data = {
         'value': round(pressure_stats['avg_pressure'], 2),
         'title': 'Average Pressure',
-        'range': [0, 100],  # Set appropriate range based on your data
+        'range': [0, 100],  
         'steps': [
             {'range': [0, 30], 'color': 'lightgreen'},
             {'range': [30, 70], 'color': 'yellow'},
@@ -81,7 +81,7 @@ def generate_graphs_data(request):
         ],
         'threshold': {
             'line': {'color': 'red', 'width': 4},
-            'value': 85  # Example threshold value, adjust as needed
+            'value': 85  
         }
     }
 
