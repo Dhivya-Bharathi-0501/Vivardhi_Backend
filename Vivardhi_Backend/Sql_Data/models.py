@@ -27,9 +27,12 @@ class Device(models.Model):
     htg_vap_temp = models.FloatField()
     device_date = models.DateTimeField()
     name = models.CharField(max_length=100,default="Unknown")
+    working = models.IntegerField(default=20)
+    worked = models.IntegerField(default=0)
+    leave = models.IntegerField(default=0)
     working_hours = models.CharField(max_length=50, default="8 hours")
     shift = models.CharField(max_length=50, default="Day")
-    allocated = models.BooleanField(default=False)
+    allocated = models.CharField(max_length=50)
 
 
     class Meta:
