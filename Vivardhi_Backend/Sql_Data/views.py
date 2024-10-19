@@ -29,7 +29,7 @@ class ImportMachinesView(APIView):
             
 
             keys_to_extract = ['CHW_IN_TEMP', 'CHW_OUT_TEMP', 'COW_IN_TEMP', 'COW_OUT_TEMP', 'STEAM_COND_TEMP','HTG_TEMP','LTG_TEMP','HTHE_OUT_TEMP','SPRAY_TEMP','DL_SLN_TEMP', 'REF_TEMP','U_TUBE_TEMP', 'OVRFLW_LTG_TEMP','HTG_TOP_TEMP',
-                               'HTG_BOT_TEMP','HTG_TB_ABS_DIFF_TEMP','VACCUM_PR','REF_TEMP_LOW_SP','REF_TEMP_LOW_HYS','HTG_PR_HI_SP','HTG_PR_LOW_LMT_SP','HTG_PR_HI_LMT_SP','HTG_PR_HI_HYS','HTG_VAP_TEMP','TIME']
+                               'HTG_BOT_TEMP','HTG_TB_ABS_DIFF_TEMP','VACCUM_PR','REF_TEMP_LOW_SP','REF_TEMP_LOW_HYS','HTG_PR_HI_SP','HTG_PR_LOW_LMT_SP','HTG_PR_HI_LMT_SP','HTG_PR_HI_HYS','HTG_VAP_TEMP','TIME', 'Name','Working','Worked','Leave', 'Working_hours', 'Shift', 'Allocated']
             df = df[keys_to_extract].dropna().drop_duplicates()
 
 
@@ -72,6 +72,13 @@ class ImportMachinesView(APIView):
                     htg_pr_hi_hys=row['HTG_PR_HI_HYS'],
                     htg_vap_temp=row['HTG_VAP_TEMP'],
                     device_date=row['TIME'],
+                    name=row['Name'],
+                    working=row['Working'],
+                    worked=row['Worked'],
+                    leave=row['Leave'],
+                    working_hours=row['Working_hours'],
+                    shift=row['Shift'],
+                    allocated=row['Allocated']
                 )
                 if created:
                     new_machines.append(machine)
@@ -81,7 +88,7 @@ class ImportMachinesView(APIView):
 
             return Response({
                 "success": f"{len(new_machines)} new records successfully inserted into Oracle SQL!",
-                "total_records": Device.objects.count()
+                "total_records": Device.objects.count(),
             }, status=status.HTTP_201_CREATED)
         
         except Exception as e:

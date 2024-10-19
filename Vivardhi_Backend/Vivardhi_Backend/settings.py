@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'Graph',
     'Detailed_Graph',
     'Authentication',
+    'Resources_Data',
 ]
 
 MIDDLEWARE = [
@@ -98,7 +99,7 @@ WSGI_APPLICATION = 'Vivardhi_Backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'manage',
+        'NAME': 'vivardhi',
         'USER': 'root',
         'PASSWORD': 'sys@0805',
         'HOST': 'localhost',

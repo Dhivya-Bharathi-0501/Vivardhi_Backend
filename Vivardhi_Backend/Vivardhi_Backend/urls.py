@@ -22,5 +22,6 @@ urlpatterns = [
     path('api/', include('Sql_Data.urls')),
     path('api/', include('Graph.urls')),
     path('api/',include('Detailed_Graph.urls')),
-    path('api/auth/',include('Authentication.urls'))
+    path('api/auth/',include('Authentication.urls')),
+    path('api/', include('Resources_Data.urls')),
 ]

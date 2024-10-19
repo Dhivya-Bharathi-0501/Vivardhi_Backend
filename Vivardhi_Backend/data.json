@@ -345,7 +345,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 05:55:04"
+        "TIME": "2023-11-08 05:55:04",
+        "Name" : "Keerthika K",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 0.00,
@@ -693,7 +700,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 05:55:34"
+        "TIME": "2023-11-08 05:55:34",
+        "Name" : "Raji M",
+        "Working" : 20,
+        "Worked" : 14,
+        "Leave" : 6,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -1041,7 +1055,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:02:39"
+        "TIME": "2023-11-08 22:02:39",
+        "Name" : "Deepa R",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -1389,7 +1410,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:02:39"
+        "TIME": "2023-11-08 22:02:39",
+        "Name" : "Karthik A",
+        "Working" : 20,
+        "Worked" : 13,
+        "Leave" : 7,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -1737,7 +1765,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:03:09"
+        "TIME": "2023-11-08 22:03:09",
+        "Name" : "Chandren",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 7,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -2085,7 +2120,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:03:39"
+        "TIME": "2023-11-08 22:03:39",
+        "Name" : "Vijay",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -2433,7 +2475,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:04:09"
+        "TIME": "2023-11-08 22:04:09",
+        "Name" : "Mathi",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -2781,7 +2830,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:04:09"
+        "TIME": "2023-11-08 22:04:09",
+        "Name" : "Gowtham",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -3129,7 +3185,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:04:39"
+        "TIME": "2023-11-08 22:04:39",
+        "Name" : "Karthiga",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -3477,7 +3540,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:04:39"
+        "TIME": "2023-11-08 22:04:39",
+        "Name" : "Prabu",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -3825,7 +3895,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:05:09"
+        "TIME": "2023-11-08 22:05:09",
+        "Name" : "Ajith",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -4173,7 +4250,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:05:39"
+        "TIME": "2023-11-08 22:05:39",
+        "Name" : "kamali",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -4521,7 +4605,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:06:09"
+        "TIME": "2023-11-08 22:06:09",
+        "Name" : "Ramya",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 8,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 88.50,
@@ -4869,7 +4960,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:06:39"
+        "TIME": "2023-11-08 22:06:39",
+        "Name" : "Jeeva",
+        "Working" : 20,
+        "Worked" : 12,
+        "Leave" : 8,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 64.00,
@@ -5217,7 +5315,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:07:09"
+        "TIME": "2023-11-08 22:07:09",
+        "Name" : "Malini",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.60,
@@ -5565,7 +5670,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:07:39"
+        "TIME": "2023-11-08 22:07:39",
+        "Name" : "Jayasri",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.60,
@@ -5913,7 +6025,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:08:09"
+        "TIME": "2023-11-08 22:08:09",
+        "Name" : "Kavi",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -6261,7 +6380,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:08:39"
+        "TIME": "2023-11-08 22:08:39",
+        "Name" : "John",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -6609,7 +6735,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:09:09"
+        "TIME": "2023-11-08 22:09:09",
+        "Name" : "Priya",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -6957,7 +7090,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:09:39"
+        "TIME": "2023-11-08 22:09:39",
+        "Name" : "Sam",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -7305,7 +7445,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:10:09"
+        "TIME": "2023-11-08 22:10:09",
+        "Name" : "Surya",
+        "Working" : 20,
+        "Worked" : 14,
+        "Leave" : 6,
+        "Working_hours" : 8,
+        "Shift" : "Night",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -7653,7 +7800,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:10:39"
+        "TIME": "2023-11-08 22:10:39",
+        "Name" : "Raja",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -8001,7 +8155,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:11:09"
+        "TIME": "2023-11-08 22:11:09",
+        "Name" : "Arjun",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -8349,7 +8510,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:11:39"
+        "TIME": "2023-11-08 22:11:39",
+        "Name" : "Nandhini",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -8697,7 +8865,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:12:09"
+        "TIME": "2023-11-08 22:12:09",
+        "Name" : "Sedhu",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -9045,7 +9220,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:12:39"
+        "TIME": "2023-11-08 22:12:39",
+        "Name" : "Malli",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -9393,7 +9575,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:13:09"
+        "TIME": "2023-11-08 22:13:09",
+        "Name" : "Akash",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -9741,7 +9930,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:13:39"
+        "TIME": "2023-11-08 22:13:39",
+        "Name" : "Kajal",
+        "Working" : 20,
+        "Worked" : 12,
+        "Leave" : 8,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -10089,7 +10285,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:14:09"
+        "TIME": "2023-11-08 22:14:09",
+        "Name" : "Varun",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -10437,7 +10640,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:14:39"
+        "TIME": "2023-11-08 22:14:39",
+        "Name" : "Boomi",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -10785,7 +10995,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:15:09"
+        "TIME": "2023-11-08 22:15:09",
+        "Name" : "Janani",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -11133,7 +11350,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:15:39"
+        "TIME": "2023-11-08 22:15:39",
+        "Name" : "Shalini",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -11481,7 +11705,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:16:09"
+        "TIME": "2023-11-08 22:16:09",
+        "Name" : "Prasanna",
+        "Working" : 20,
+        "Worked" : 11,
+        "Leave" : 9,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -11829,7 +12060,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:16:39"
+        "TIME": "2023-11-08 22:16:39",
+        "Name" : "Abinaya",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -12177,7 +12415,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:17:09"
+        "TIME": "2023-11-08 22:17:09",
+        "Name" : "Seetha",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -12525,7 +12770,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:17:39"
+        "TIME": "2023-11-08 22:17:39",
+        "Name" : "Shiva",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -12873,7 +13125,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:18:09"
+        "TIME": "2023-11-08 22:18:09",
+        "Name" : "Suresh",
+        "Working" : 20,
+        "Worked" : 12,
+        "Leave" : 8,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -13221,7 +13480,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:18:39"
+        "TIME": "2023-11-08 22:18:39",
+        "Name" : "Vibitha",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -13569,7 +13835,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:19:09"
+        "TIME": "2023-11-08 22:19:09",
+        "Name" : "Mahalakshmi",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -13917,7 +14190,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:19:40"
+        "TIME": "2023-11-08 22:19:40",
+        "Name" : "Magi",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -14265,7 +14545,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:20:10"
+        "TIME": "2023-11-08 22:20:10",
+        "Name" : "Mahesh",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -14613,7 +14900,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:20:40"
+        "TIME": "2023-11-08 22:20:40",
+        "Name" : "Swetha",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -14961,7 +15255,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:21:10"
+        "TIME": "2023-11-08 22:21:10",
+        "Name" : "Arun",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -15309,7 +15610,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:21:40"
+        "TIME": "2023-11-08 22:21:40",
+        "Name" : "Suji",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -15657,7 +15965,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:22:10"
+        "TIME": "2023-11-08 22:22:10",
+        "Name" : "Sandhiya",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -16005,7 +16320,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:22:40"
+        "TIME": "2023-11-08 22:22:40",
+        "Name" : "Maithili",
+        "Working" : 20,
+        "Worked" : 14,
+        "Leave" : 6,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -16353,7 +16675,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:23:10"
+        "TIME": "2023-11-08 22:23:10",
+        "Name" : "Murugan",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 8,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -16701,7 +17030,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:23:40"
+        "TIME": "2023-11-08 22:23:40",
+        "Name" : "Deva",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -17049,7 +17385,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:24:10"
+        "TIME": "2023-11-08 22:24:10",
+        "Name" : "Jothi",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -17397,7 +17740,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:24:40"
+        "TIME": "2023-11-08 22:24:40",
+        "Name" : "Jaya Surya",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -17745,7 +18095,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:25:10"
+        "TIME": "2023-11-08 22:25:10",
+        "Name" : "Mohan",
+        "Working" : 20,
+        "Worked" : 13,
+        "Leave" : 7,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -18093,7 +18450,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:25:40"
+        "TIME": "2023-11-08 22:25:40",
+        "Name" : "Ponni",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -18441,7 +18805,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:26:10"
+        "TIME": "2023-11-08 22:26:10",
+        "Name" : "Hari",
+        "Working" : 20,
+        "Worked" : 14,
+        "Leave" : 6,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -18789,7 +19160,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:26:40"
+        "TIME": "2023-11-08 22:26:40",
+        "Name" : "Vicky",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -19137,7 +19515,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:27:10"
+        "TIME": "2023-11-08 22:27:10",
+        "Name" : "Arnav",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -19485,7 +19870,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:27:40"
+        "TIME": "2023-11-08 22:27:40",
+        "Name" : "Vimal",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -19833,7 +20225,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:28:10"
+        "TIME": "2023-11-08 22:28:10",
+        "Name" : "Sandy",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -20181,7 +20580,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:28:40"
+        "TIME": "2023-11-08 22:28:40",
+        "Name" : "Sathiya",
+        "Working" : 20,
+        "Worked" : 12,
+        "Leave" : 8,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -20529,7 +20935,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:29:10"
+        "TIME": "2023-11-08 22:29:10",
+        "Name" : "Keerthana",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -20877,7 +21290,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:29:40"
+        "TIME": "2023-11-08 22:29:40",
+        "Name" : "Vignesh",
+        "Working" : 20,
+        "Worked" : 10,
+        "Leave" : 10,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -21225,7 +21645,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:30:10"
+        "TIME": "2023-11-08 22:30:10",
+        "Name" : "Vaani",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -21573,7 +22000,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:30:40"
+        "TIME": "2023-11-08 22:30:40",
+        "Name" : "Varshini",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -21921,7 +22355,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:31:10"
+        "TIME": "2023-11-08 22:31:10",
+        "Name" : "Ammu",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -22269,7 +22710,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:31:40"
+        "TIME": "2023-11-08 22:31:40",
+        "Name" : "Chitra",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -22617,7 +23065,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:32:10"
+        "TIME": "2023-11-08 22:32:10",
+        "Name" : "Arul",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -22965,7 +23420,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:32:40"
+        "TIME": "2023-11-08 22:32:40",
+        "Name" : "Kani",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 8,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -23313,7 +23775,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:33:10"
+        "TIME": "2023-11-08 22:33:10",
+        "Name" : "Nivetha",
+        "Working" : 20,
+        "Worked" : 10,
+        "Leave" : 10,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -23661,7 +24130,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:33:40"
+        "TIME": "2023-11-08 22:33:40",
+        "Name" : "Tharun",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 8,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -24009,7 +24485,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:34:10"
+        "TIME": "2023-11-08 22:34:10",
+        "Name" : "Vanitha",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -24357,7 +24840,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:34:40"
+        "TIME": "2023-11-08 22:34:40",
+        "Name" : "Vaasu",
+        "Working" : 20,
+        "Worked" : 13,
+        "Leave" : 7,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -24705,7 +25195,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:35:10"
+        "TIME": "2023-11-08 22:35:10",
+        "Name" : "Kanmani",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -25053,7 +25550,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:35:41"
+        "TIME": "2023-11-08 22:35:41",
+        "Name" : "Bharathi",
+        "Working" : 20,
+        "Worked" : 12,
+        "Leave" : 8,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -25401,7 +25905,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:36:11"
+        "TIME": "2023-11-08 22:36:11",
+        "Name" : "Anjali",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -25749,7 +26260,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:36:41"
+        "TIME": "2023-11-08 22:36:41",
+        "Name" : "Manasa",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -26097,7 +26615,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:37:11"
+        "TIME": "2023-11-08 22:37:11",
+        "Name" : "Nishanth",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -26445,7 +26970,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:37:41"
+        "TIME": "2023-11-08 22:37:41",
+        "Name" : "Durga",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -26793,7 +27325,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:38:11"
+        "TIME": "2023-11-08 22:38:11",
+        "Name" : "Shiva",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -27141,7 +27680,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:38:41"
+        "TIME": "2023-11-08 22:38:41",
+        "Name" : "Saraswathi",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -27489,7 +28035,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:39:11"
+        "TIME": "2023-11-08 22:39:11",
+        "Name" : "Sowdharya",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -27837,7 +28390,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:39:41"
+        "TIME": "2023-11-08 22:39:41",
+        "Name" : "Ravi",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -28185,7 +28745,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:40:11"
+        "TIME": "2023-11-08 22:40:11",
+        "Name" : "Aarthi",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -28533,7 +29100,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:40:41"
+        "TIME": "2023-11-08 22:40:41",
+        "Name" : "Vickram",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -28881,7 +29455,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:41:11"
+        "TIME": "2023-11-08 22:41:11",
+        "Name" : "Thara",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -29229,7 +29810,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:41:41"
+        "TIME": "2023-11-08 22:41:41",
+        "Name" : "Jothika",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -29577,7 +30165,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:42:11"
+        "TIME": "2023-11-08 22:42:11",
+        "Name" : "Vasanth",
+        "Working" : 20,
+        "Worked" : 14,
+        "Leave" : 6,
+        "Working_hours" : 8,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -29925,7 +30520,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:42:41"
+        "TIME": "2023-11-08 22:42:41",
+        "Name" : "Ragava",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -30273,7 +30875,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:43:11"
+        "TIME": "2023-11-08 22:43:11",
+        "Name" : "Susi",
+        "Working" : 20,
+        "Worked" : 17,
+        "Leave" : 3,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -30621,7 +31230,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:43:41"
+        "TIME": "2023-11-08 22:43:41",
+        "Name" : "Valar",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -30969,7 +31585,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:44:11"
+        "TIME": "2023-11-08 22:44:11",
+        "Name" : "Arivu",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -31317,7 +31940,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:44:41"
+        "TIME": "2023-11-08 22:44:41",
+        "Name" : "Thamizh",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -31665,7 +32295,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:45:11"
+        "TIME": "2023-11-08 22:45:11",
+        "Name" : "Anbu",
+        "Working" : 20,
+        "Worked" : 10,
+        "Leave" : 10,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -32013,7 +32650,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:45:41"
+        "TIME": "2023-11-08 22:45:41",
+        "Name" : "Arul Mozhi",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -32361,7 +33005,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:46:11"
+        "TIME": "2023-11-08 22:46:11",
+        "Name" : "Barkavi",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -32709,7 +33360,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:46:41"
+        "TIME": "2023-11-08 22:46:41",
+        "Name" : "Selvi",
+        "Working" : 20,
+        "Worked" : 14,
+        "Leave" : 6,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -33057,7 +33715,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:47:11"
+        "TIME": "2023-11-08 22:47:11",
+        "Name" : "Jeni",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -33405,7 +34070,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:47:41"
+        "TIME": "2023-11-08 22:47:41",
+        "Name" : "Kaveri",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -33753,7 +34425,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:48:11"
+        "TIME": "2023-11-08 22:48:11",
+        "Name" : "Ganga",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -34101,7 +34780,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:48:41"
+        "TIME": "2023-11-08 22:48:41",
+        "Name" : "Kumuran",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -34449,7 +35135,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:49:11"
+        "TIME": "2023-11-08 22:49:11",
+        "Name" : "Vishnu",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -34797,7 +35490,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:49:41"
+        "TIME": "2023-11-08 22:49:41",
+        "Name" : "Vinoth",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -35145,7 +35845,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:50:11"
+        "TIME": "2023-11-08 22:50:11",
+        "Name" : "Thamarai",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -35493,7 +36200,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:50:41"
+        "TIME": "2023-11-08 22:50:41",
+        "Name" : "Mathiyazhagan",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -35841,7 +36555,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:51:11"
+        "TIME": "2023-11-08 22:51:11",
+        "Name" : "Parthiban",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -36189,7 +36910,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:51:41"
+        "TIME": "2023-11-08 22:51:41",
+        "Name" : "Kamal",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -36537,7 +37265,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:52:11"
+        "TIME": "2023-11-08 22:52:11",
+        "Name" : "Sree",
+        "Working" : 20,
+        "Worked" : 16,
+        "Leave" : 4,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -36885,7 +37620,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:52:41"
+        "TIME": "2023-11-08 22:52:41",
+        "Name" : "Dharshini",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "No"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -37233,7 +37975,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:53:11"
+        "TIME": "2023-11-08 22:53:11",
+        "Name" : "Sangavi",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -37581,7 +38330,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:53:41"
+        "TIME": "2023-11-08 22:53:41",
+        "Name" : "Velan",
+        "Working" : 20,
+        "Worked" : 10,
+        "Leave" : 10,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -37929,7 +38685,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:54:11"
+        "TIME": "2023-11-08 22:54:11",
+        "Name" : "Parvathi",
+        "Working" : 20,
+        "Worked" : 15,
+        "Leave" : 5,
+        "Working_hours" : 9,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -38277,7 +39040,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:54:42"
+        "TIME": "2023-11-08 22:54:42",
+        "Name" : "Dhanush",
+        "Working" : 20,
+        "Worked" : 12,
+        "Leave" : 8,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -38625,7 +39395,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:55:12"
+        "TIME": "2023-11-08 22:55:12",
+        "Name" : "Mani",
+        "Working" : 20,
+        "Worked" : 20,
+        "Leave" : 0,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -38973,7 +39750,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:55:42"
+        "TIME": "2023-11-08 22:55:42",
+        "Name" : "Kathir",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -39321,7 +40105,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:56:12"
+        "TIME": "2023-11-08 22:56:12",
+        "Name" : "Sreedhar",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -39669,7 +40460,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:56:42"
+        "TIME": "2023-11-08 22:56:42",
+        "Name" : "Krishnan",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 2,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -40017,7 +40815,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:57:12"
+        "TIME": "2023-11-08 22:57:12",
+        "Name" : "Kayal",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -40365,7 +41170,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:57:42"
+        "TIME": "2023-11-08 22:57:42",
+        "Name" : "Sanjay",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 2,
+        "Working_hours" : 8,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 91.50,
@@ -40713,7 +41525,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:58:12"
+        "TIME": "2023-11-08 22:58:12",
+        "Name" : "Arsh",
+        "Working" : 20,
+        "Worked" : 18,
+        "Leave" : 2,
+        "Working_hours" : 10,
+        "Shift" : "Day",
+        "Allocated" : "Yes"
     },
     {
         "CHW_IN_TEMP": 81.50,
@@ -41061,7 +41880,14 @@
         "SCV_ON_CONC_CONTROL": 0.00,
         "REF_OVERFLOW_ENABLE_DISABLE": 0.00,
         "MC_RUN_HOURS": 0.00,
-        "TIME": "2023-11-08 22:22:40"
+        "TIME": "2023-11-08 22:22:40",
+        "Name" : "Yuvan",
+        "Working" : 20,
+        "Worked" : 19,
+        "Leave" : 1,
+        "Working_hours" : 9,
+        "Shift" : "Night",
+        "Allocated" : "Yes"
     }
 
 ]

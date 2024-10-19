@@ -28,8 +28,8 @@ class GraphModel(models.Model):
     device_date = models.DateTimeField()
     
     class Meta:
-        managed = False  # If you don't want Django to manage this table
-        db_table = 'TEMPERATURE_TABLE'  # Replace with your actual table name
+        managed = False  
+        db_table = 'SAMPLE_DATA'  
     
     def __str__(self):
         return (
